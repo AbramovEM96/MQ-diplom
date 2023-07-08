@@ -292,13 +292,13 @@ body{
   display: block;
   width: 17px;
   height: 17px;
-  background-image: url(../svg/form-circle.svg);
+  background-image: url(.../svg/form-circle.svg);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .radio-btn:checked ~ .radio-label::before {
-  background-image: url(../svg/form-circle.svg);
+  background-image: url(.../svg/form-circle.svg);
 }
 
 .question_text{
