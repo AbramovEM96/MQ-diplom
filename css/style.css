@@ -75,7 +75,7 @@ body{
   position: relative;
   width: 100%;
   background-color: #999;
-  background-image: url(./images/banner-bg.jpg);
+  background-image: url(../images/banner-bg.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   z-index: 1;
