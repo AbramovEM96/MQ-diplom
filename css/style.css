@@ -1,17 +1,17 @@
 @font-face {
   font-family: OpenSans;
-  src: url(./fonts/OpenSans-Regular.woff2);
-  src: url(./fonts/OpenSans-Regular.woff);
-  src: url(./fonts/OpenSans-Regular.ttf);
+  src: url(../fonts/OpenSans-Regular.woff2);
+  src: url(../fonts/OpenSans-Regular.woff);
+  src: url(../fonts/OpenSans-Regular.ttf);
   font-style: normal;
   font-weight: normal;
 }
 
 @font-face {
   font-family: OpenSans;
-  src: url(./fonts/OpenSans-Bold.woff2);
-  src: url(./fonts/OpenSans-Bold.woff);
-  src: url(./fonts/OpenSans-Bold.ttf);
+  src: url(../fonts/OpenSans-Bold.woff2);
+  src: url(../fonts/OpenSans-Bold.woff);
+  src: url(../fonts/OpenSans-Bold.ttf);
   font-style: normal;
   font-weight: bold;
 }
@@ -238,7 +238,7 @@ body{
 .feedback_optoin{
   position: relative;
   appearance: none;
-  background-image: url(./svg/form-arrows.svg);
+  background-image: url(../svg/form-arrows.svg);
   background-repeat: no-repeat;
   background-size: 10px;
   background-position: right 15px right;
@@ -292,13 +292,13 @@ body{
   display: block;
   width: 17px;
   height: 17px;
-  background-image: url(./svg/form-circle.svg);
+  background-image: url(../svg/form-circle.svg);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .radio-btn:checked ~ .radio-label::before {
-  background-image: url(./svg/form-circle.svg);
+  background-image: url(../svg/form-circle.svg);
 }
 
 .question_text{
@@ -413,19 +413,19 @@ body{
 
 
 .card-1{
-  background-image: url(./images/trend1.jpg)
+  background-image: url(../images/trend1.jpg)
 }
 
 .card-2{
-  background-image: url(./images/trend2.jpg)
+  background-image: url(../images/trend2.jpg)
 }
 
 .card-3{
-  background-image: url(./images/trend3.jpg)
+  background-image: url(../images/trend3.jpg)
 }
 
 .card-4{
-  background-image: url(./images/trend4.jpg)
+  background-image: url(../images/trend4.jpg)
 }
 
 /* posts */
@@ -598,7 +598,7 @@ body{
   cursor: pointer;
   border: none;
   background: #b59f5b;
-  background-image: url(./svg/search.svg);
+  background-image: url(../svg/search.svg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: 20px;
@@ -838,20 +838,20 @@ body{
 }
 
 .dribble-link{
-  background-image: url(./svg/001-dribbble.svg);
+  background-image: url(../svg/001-dribbble.svg);
 }
 
 
 .pinterest_link{
-  background-image: url(./svg/001-pinterest.svg);
+  background-image: url(../svg/001-pinterest.svg);
 }
 
 .tumblr_link{
-  background-image: url(./svg/003-tumblr.svg);
+  background-image: url(../svg/003-tumblr.svg);
 }
 
 .twitter_link{
-  background-image: url(./svg/004-twitter.svg);
+  background-image: url(../svg/004-twitter.svg);
 }
 
 /* copyright */
